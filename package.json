@@ -1,0 +1,25 @@
+{
+  "name": "cypress-parallel-run",
+  "version": "0.0.0",
+  "description": "Run cypress tests parallel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemolize/cypress-parallel-run.git"
+  },
+  "keywords": [
+    "cypress",
+    "paralle",
+    "llocal",
+    "sharding"
+  ],
+  "author": "nemolize",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nemolize/cypress-parallel-run/issues"
+  },
+  "homepage": "https://github.com/nemolize/cypress-parallel-run#readme"
+}
